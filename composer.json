@@ -1,0 +1,16 @@
+{
+    "name": "davideperozzi/nextform",
+    "description": "nextform php library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Davide Perozzi",
+            "email": "davide@dorfjungs.com"
+        }
+    ],
+    "require": {
+        "davideperozzi/nextform-validator": "^1.0",
+        "davideperozzi/nextform-renderer": "^1.0"
+    }
+}
