@@ -11,6 +11,7 @@
     ],
     "require": {
         "davideperozzi/nextform-validator": "^1.0",
-        "davideperozzi/nextform-renderer": "^1.0"
+        "davideperozzi/nextform-renderer": "^1.0",
+        "davideperozzi/nextform-session": "^1.0"
     }
 }
